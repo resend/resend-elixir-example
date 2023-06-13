@@ -1,6 +1,6 @@
 # Resend with Example
 
-This example shows how to use Resend with [Example](https://example.com).
+This example shows how to use Resend with [Elixir](https://elixir-lang.org/).
 
 ## Prerequisites
 
@@ -11,18 +11,18 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Replace `re_123456789` on `example.ts` with your API key.
+1. Replace `re_123456789` in `lib/app.ex` with your API key.
 
 2. Install dependencies:
 
   ```sh
-TBD
+  mix deps.get
   ```
 
 3. Execute the following command:
 
   ```sh
-TBD
+  mix run -e App.send_email
   ```
 
 ## License
