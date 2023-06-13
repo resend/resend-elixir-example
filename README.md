@@ -1,4 +1,4 @@
-# Resend with Example
+# Resend with Elixir
 
 This example shows how to use Resend with [Elixir](https://elixir-lang.org/).
 
