@@ -13,7 +13,7 @@ defmodule App do
   def send_email() do
     client = Resend.client(api_key: "re_123456789")
 
-    Resend.Email.send(client, %{
+    Resend.Emails.send(client, %{
       from: "onboarding@resend.dev",
       to: "delivered@resend.dev",
       subject: "Hello World",
