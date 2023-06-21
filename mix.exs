@@ -21,7 +21,7 @@ defmodule App.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:resend, "~> 0.2"}
+      {:resend, "~> 0.4"}
     ]
   end
 end
