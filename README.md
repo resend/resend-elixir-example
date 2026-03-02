@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> This repository has been consolidated into the new [resend-examples](https://github.com/resend/resend-examples) monorepo, which contains updated examples for all languages and frameworks.
+>
+> **[View the Elixir examples here](https://github.com/resend/resend-examples/tree/main/elixir-resend-examples)**
+
+---
+
+
 # Resend with Elixir
 
 This example shows how to use Resend with [Elixir](https://elixir-lang.org/).
